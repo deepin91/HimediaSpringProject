@@ -138,7 +138,7 @@ public class MainForSpring {
 		System.out.println("list");
 		System.out.println("info 이메일");
 		System.out.println("version");
-		System.out.println();
+		System.out.println(); 
 	}
 }
 
